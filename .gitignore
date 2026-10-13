@@ -12,3 +12,6 @@ datos/bafweek/originales/
 
 pruebas/capturas/
 __pycache__/
+
+# Caché de herramientas locales
+.impeccable/

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Originales descargados: pesados y regenerables con scripts/descargar_bafweek.py.
+# Se publican las versiones web (public/fotos) y el catálogo, no los originales.
+datos/bafweek/originales/
+
+pruebas/capturas/
+__pycache__/
